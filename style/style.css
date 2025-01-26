@@ -40,7 +40,7 @@ body {
 }
 
 .cabecalho__menu__link:hover {
-    color:var(--cor-secundaria)
+    color:var(--cor-hover);
 }
 
 
