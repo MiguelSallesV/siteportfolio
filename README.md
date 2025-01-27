@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +17,3 @@
 ### Miguel Salles
 
 ### Linkedin: https://www.linkedin.com/in/miguel-salles-99b57a331/
-
-```
