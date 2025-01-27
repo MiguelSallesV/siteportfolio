@@ -2,7 +2,8 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem de capa]([Imgur](https://imgur.com/VWOwGrC))
+![imagem de capa]![Screenshot 2025-01-27 170226](https://github.com/user-attachments/assets/d91723f0-3238-4cd0-a612-6580461afd9a)
+
 
 ## Ferramentas utilizadas:
 
