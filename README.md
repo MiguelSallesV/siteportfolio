@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem de capa](https://pasteboard.co/htMN2BYM2Asi.png)
+![imagem de capa](https://imgur.com/VWOwGrC)
 
 ## Ferramentas utilizadas:
 
