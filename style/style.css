@@ -151,11 +151,11 @@ body {
 @media (max-width: 1200px) {
     
     .cabecalho {
-        padding: 10%;
+        padding: 5%;
     }
  
     .cabecalho__menu {
-        justify-content: center;      
+        justify-content: center;     
     }
 
     .apresentacao {
@@ -176,6 +176,15 @@ body {
         width: auto;
     }
 
+@media (max-width: 480px) {
 
+    .cabecalho__menu {
+        gap: 50px;
+    }
+    .cabecalho__menu__link {
+        font-size: 1.13rem;
+    }
+
+}
 }
 
