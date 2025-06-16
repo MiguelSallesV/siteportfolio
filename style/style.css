@@ -2,7 +2,7 @@
 
 :root {
     --cor-primaria: #123524;
-    --cor-secundaria: #EFE3C2;
+    --cor-secundaria: #e0ce9c;
     --cor-terciaria: #2C8026;
     --cor-hover: #2B5528;
 
@@ -29,7 +29,7 @@ body {
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 76px;
 }
 
 .cabecalho__menu__link {
@@ -37,13 +37,18 @@ body {
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     text-decoration: none;
+    padding: 0.3em;
+}
+
+.ativo {
+    background-color: var(--cor-secundaria);
+    border-radius: 1em;
 }
 
 .cabecalho__menu__link:hover {
     color:var(--cor-hover);
     transform: scale(1.05);
 }
-
 
 .apresentacao {
     display: flex;

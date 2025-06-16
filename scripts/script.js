@@ -1,6 +1,8 @@
+
 const gifs = document.querySelectorAll('.gif__hover');
 
-gifs.forEach((gif) => {
+function ativaGifs(gif) {
+    gifs.forEach((gif) => {
     gif.addEventListener('mouseenter', () => {
         gif.src = gif.dataset.gif;
     })
@@ -8,3 +10,9 @@ gifs.forEach((gif) => {
         gif.src = gif.dataset.static
     })
 })
+}
+
+ativaGifs(gifs);
+
+
+
