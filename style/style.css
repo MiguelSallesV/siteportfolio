@@ -150,15 +150,36 @@ body {
         width: auto;
     }
 
+    .foto {
+        height: auto;
+    }
+
+
 @media (max-width: 480px) {
 
     .cabecalho__menu {
         gap: 50px;
     }
     .cabecalho__menu__link {
-        font-size: 1.13rem;
+        font-size: 1rem;
     }
 
+    .apresentacao__conteudo__titulo {
+        font-size: 1.5rem;
+    }
+
+    .apresentacao__conteudo__paragrafo, .apresentacao__links__navegacao, .apresentacao__links__subtitulo {
+        font-size: 1rem;
+    }
+
+    .apresentacao__links__navegacao img {
+        width: 25px;
+        height: 24px;
+    }
+
+    .rodape {
+        font-size: 1rem;
+    }
 }
 }
 

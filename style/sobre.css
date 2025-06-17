@@ -27,9 +27,16 @@
     .sobremim {
         flex-direction: column-reverse;
         padding: 5%;
+        margin-bottom: 18em;
     }
 
     .sobremim__conteudo {
         width: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .sobremim__conteudo__paragrafo {
+        font-size: 1rem;
     }
 }
