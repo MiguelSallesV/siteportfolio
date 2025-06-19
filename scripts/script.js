@@ -1,5 +1,5 @@
 
-const gifs = document.querySelectorAll('.gif__hover');
+const gifs = document.querySelectorAll('.gif__projeto');
 
 function ativaGifs(gif) {
     gifs.forEach((gif) => {
